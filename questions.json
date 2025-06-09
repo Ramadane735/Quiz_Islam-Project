@@ -1,0 +1,523 @@
+[
+    {
+      "category": "Coran",
+      "questions": [
+        {
+          "question 1": "Quelle est la première sourate du Coran ?",
+          "options": ["Al-Fatiha", "Al-Baqara", "Al-Imran", "An-Nisa"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 2": "Combien de versets compte la sourate Al-Kawthar ?",
+          "options": ["1", "3", "5", "10"],
+          "answer": 1,
+          "time_limit": 10
+        },
+        {
+          "question 3": "Quel est le thème principal de la sourate Al-Ikhlas ?",
+          "options": ["La création", "L'unicité de Dieu", "La prière", "Le jeûne"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 4": "Quelle sourate est connue comme la 'mère du Livre' ?",
+          "options": ["Al-Fatiha", "Al-Baqara", "An-Nas", "Al-Ikhlas"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 5": "Quel est le dernier verset révélé du Coran ?",
+          "options": ["Al-Baqara 2:281", "An-Nas 114:6", "Al-Fatiha 1:7", "Al-Ikhlas 112:4"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 6": "Quelle sourate est souvent récitée pour demander la protection contre le mal ?",
+          "options": ["Al-Falaq", "An-Nas", "Al-Baqarah", "Al-Ikhlas"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 7": "Combien de sourates le Coran contient-il ?",
+          "options": ["114", "120", "99", "150"],
+          "answer": 0,
+          "time_limit": 10
+        },
+        {
+          "question 8": "Quelle sourate est connue comme la 'sourate du Trône' ?",
+          "options": ["Al-Baqara", "Al-Imran", "An-Nisa", "Al-Ma'idah"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 9": "Quel est le sujet principal de la sourate Al-Baqara ?",
+          "options": ["La prière", "Le jeûne", "La foi et la loi islamique", "L'histoire des prophètes"],
+          "answer": 2,
+          "time_limit": 30
+        },
+        {
+          "question 10": "Quelle sourate est dédiée à la famille du Prophète Muhammad ?",
+          "options": ["Al-Ahzab", "Al-Imran", "An-Nisa", "Al-Mumtahana"],
+          "answer": 0,
+          "time_limit": 25
+        }
+      ]
+    },
+    {
+      "category": "Prophètes",
+      "questions": [
+        {
+          "question 1": "Quel prophète a reçu la révélation du Coran ?",
+          "options": ["Moïse", "Jésus", "Muhammad", "Abraham"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 2": "Qui est considéré comme le dernier prophète de l'Islam ?",
+          "options": ["Adam", "Noé", "Moses", "Muhammad"],
+          "answer": 3,
+          "time_limit": 15
+        },
+        {
+          "question 3": "Quel prophète est connu pour avoir construit la Kaaba ?",
+          "options": ["Abraham", "Noé", "David", "Salomon"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 4": "Qui a été englouti par un grand poisson ?",
+          "options": ["Jonas", "Moïse", "Jésus", "Muhammad"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 5": "Quel prophète a parlé à Dieu sur le mont Sinaï ?",
+          "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
+          "answer": 1,
+          "time_limit": 30
+        },
+        {
+          "question 6": "Qui est le père de tous les prophètes ?",
+          "options": ["Adam", "Abraham", "Noé", "David"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 7": "Quel prophète a été sauvé du feu par Dieu ?",
+          "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 8": "Qui a reçu les dix commandements ?",
+          "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
+          "answer": 1,
+          "time_limit": 25
+        },
+        {
+          "question 9": "Quel prophète a été connu pour sa grande patience ?",
+          "options": ["Job", "Noé", "Moïse", "David"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 10": "Qui est le prophète associé à la naissance miraculeuse ?",
+          "options": ["Jésus", "Moïse", "Abraham", "Muhammad"],
+          "answer": 0,
+          "time_limit": 20
+        }
+      ]
+    },
+    {
+      "category": "Hadiths",
+      "questions": [
+        {
+          "question 1": "Quel est le nom du recueil de hadiths le plus célèbre ?",
+          "options": ["Sahih al-Bukhari", "Sahih Muslim", "Sunan Abu Dawood", "Jami` at-Tirmidhi"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 2": "Qui est l'auteur du recueil de hadiths 'Sahih Muslim' ?",
+          "options": ["Imam al-Bukhari", "Imam Muslim", "Imam Abu Dawood", "Imam at-Tirmidhi"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 3": "Quel est le critère principal pour qu'un hadith soit considéré comme authentique ?",
+          "options": ["La chaîne de transmission", "Le contenu du hadith", "La popularité du hadith", "L'époque de la révélation"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 4": "Quel est le terme utilisé pour désigner les paroles du Prophète Muhammad ?",
+          "options": ["Quran", "Hadith", "Sunnah", "Fiqh"],
+          "answer": 1,
+          "time_limit": 15
+        },
+        {
+          "question 5": "Quelle est la différence entre un hadith sahih et un hadith da'if ?",
+          "options": ["Authentique vs faible", "Récent vs ancien", "Court vs long", "Public vs privé"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 6": "Quel est le but principal des hadiths dans l'Islam ?",
+          "options": ["Expliquer le Coran", "Raconter des histoires", "Promouvoir la culture islamique", "Former des juristes"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 7": "Quel est le nom du recueil de hadiths compilé par Abu Dawood ?",
+          "options": ["Sunan Abu Dawood", "Sahih al-Bukhari", "Jami` at-Tirmidhi", "Sunan an-Nasa'i"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 8": "Qui a dit : 'Les actions ne valent que par leurs intentions' ?",
+          "options": ["Abu Huraira", "Anas ibn Malik", "Umar ibn al-Khattab", "Muhammad"],
+          "answer": 3,
+          "time_limit": 20
+        },
+        {
+          "question 9": "Quel est le terme utilisé pour désigner les actions et les pratiques du Prophète Muhammad ?",
+          "options": ["Sunnah", "Hadith", "Fiqh", "Sharia"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 10": "Quel est le nom du recueil de hadiths compilé par at-Tirmidhi ?",
+          "options": ["Sunan at-Tirmidhi", "Sahih al-Bukhari", "Sunan Abu Dawood", "Jami` at-Tirmidhi"],
+          "answer": 3,
+          "time_limit": 25
+        }
+      ]
+    },
+    {
+      "category": "Fiqh",
+      "questions": [
+        {
+          "question 1": "Quelle est la principale source de la jurisprudence islamique ?",
+          "options": ["Le Coran", "Les hadiths", "Le consensus des savants", "L'analogie"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 2": "Quel est le terme utilisé pour désigner les règles juridiques dans l'Islam ?",
+          "options": ["Fiqh", "Sharia", "Sunnah", "Hadith"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 3": "Quel est le nom de la prière obligatoire du vendredi ?",
+          "options": ["Salat al-Jumu'ah", "Salat al-Maghrib", "Salat al-Isha", "Salat al-Fajr"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 4": "Quelle est la principale différence entre le fiqh sunnite et le fiqh chiite ?",
+          "options": ["Sources de jurisprudence", "Rituels de prière", "Interprétation du Coran", "Histoire des prophètes"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 5": "Quel est le terme utilisé pour désigner l'interprétation du Coran ?",
+          "options": ["Tafsir", "Hadith", "Fiqh", "Sunnah"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 6": "Quel est le nom de la taxe obligatoire en Islam destinée aux pauvres ?",
+          "options": ["Zakat", "Sadaqah", "Khums", "Fitr"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 7": "Quel est le terme utilisé pour désigner les actes interdits en Islam ?",
+          "options": ["Halal", "Haram", "Mustahabb", "Makruh"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 8": "Quelle est la principale différence entre halal et haram ?",
+          "options": ["Permis vs interdit", "Obligatoire vs facultatif", "Recommandé vs déconseillé", "Légal vs illégal"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 9": "Quel est le terme utilisé pour désigner les actes recommandés en Islam ?",
+          "options": ["Halal", "Haram", "Mustahabb", "Makruh"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 10": "Quel est le nom de la prière nocturne facultative ?",
+          "options": ["Salat al-Tahajjud", "Salat al-Witr", "Salat al-Tarawih", "Salat al-Duha"],
+          "answer": 0,
+          "time_limit": 25
+        }
+      ]
+    },
+    {
+      "category": "Histoire de l'Islam",
+      "questions": [
+        {
+          "question 1": "En quelle année a eu lieu l'Hégire ?",
+          "options": ["622", "630", "632", "610"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 2": "Qui était le premier calife de l'Islam ?",
+          "options": ["Abu Bakr", "Omar", "Othman", "Ali"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 3": "Quel événement marque le début du calendrier islamique ?",
+          "options": ["La naissance du Prophète", "L'Hégire", "La révélation du Coran", "La conquête de La Mecque"],
+          "answer": 1,
+          "time_limit": 25
+        },
+        {
+          "question 4": "Quelle bataille a eu lieu en 624 et est considérée comme la première bataille de l'Islam ?",
+          "options": ["Bataille de Badr", "Bataille de Uhud", "Bataille de Khandaq", "Bataille de Tabuk"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 5": "Qui a été le dernier calife de l'Empire omeyyade ?",
+          "options": ["Marwan II", "Abd al-Malik", "Yazid I", "Hisham"],
+          "answer": 0,
+          "time_limit": 30
+        },
+        {
+          "question 6": "Quel est le nom de la dynastie qui a succédé aux Omeyyades ?",
+          "options": ["Les Abbassides", "Les Fatimides", "Les Ayyoubides", "Les Mamelouks"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 7": "Quel est le nom de la ville où se trouve la mosquée Al-Aqsa ?",
+          "options": ["Médine", "La Mecque", "Jérusalem", "Damas"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 8": "Qui a fondé la ville de Bagdad ?",
+          "options": ["Abu Bakr", "Omar", "Al-Mansur", "Haroun al-Rachid"],
+          "answer": 2,
+          "time_limit": 30
+        },
+        {
+          "question 9": "Quel est le nom de la bataille qui a eu lieu en 732 et a stoppé l'expansion musulmane en Europe ?",
+          "options": ["Bataille de Poitiers", "Bataille de Tours", "Bataille de Badr", "Bataille de Uhud"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 10": "Quel est le nom du traité qui a mis fin à la guerre entre les musulmans et les Byzantins en 628 ?",
+          "options": ["Traité de Hudaybiyyah", "Traité de Médine", "Traité de Khaybar", "Traité de Tabuk"],
+          "answer": 0,
+          "time_limit": 20
+        }
+      ]
+    },
+    {
+      "category": "Géographie islamique",
+      "questions": [
+        {
+          "question 1": "Quelle est la ville sainte de l'Islam ?",
+          "options": ["La Mecque", "Médine", "Jérusalem", "Damas"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 2": "Quel est le nom de la mosquée la plus sacrée de l'Islam ?",
+          "options": ["Mosquée Al-Aqsa", "Mosquée du Prophète", "Mosquée Al-Haram", "Mosquée de Damas"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 3": "Dans quel pays se trouve la ville de Médine ?",
+          "options": ["Arabie Saoudite", "Égypte", "Syrie", "Irak"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 4": "Quelle est la direction vers laquelle les musulmans prient ?",
+          "options": ["La Mecque", "Médine", "Jérusalem", "Damas"],
+          "answer": 0,
+          "time_limit": 10
+        },
+        {
+          "question 5": "Quel est le nom de la montagne où le Prophète Muhammad a reçu la première révélation ?",
+          "options": ["Mont Sinaï", "Mont Arafat", "Mont Hira", "Mont Uhud"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 6": "Quelle est la capitale de l'Arabie Saoudite ?",
+          "options": ["Riyad", "Djeddah", "Médine", "La Mecque"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 7": "Quel est le nom du fleuve sacré en Islam ?",
+          "options": ["Nil", "Euphrate", "Tigre", "Jourdain"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 8": "Quelle ville est connue comme le 'cœur de l'Islam' ?",
+          "options": ["La Mecque", "Médine", "Bagdad", "Damas"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 9": "Quel est le nom de la mosquée située à Jérusalem ?",
+          "options": ["Mosquée Al-Aqsa", "Mosquée Al-Haram", "Mosquée du Prophète", "Mosquée de Damas"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 10": "Dans quel pays se trouve la ville de Kairouan, un site important pour les musulmans ?",
+          "options": ["Tunisie", "Algérie", "Maroc", "Libye"],
+          "answer": 0,
+          "time_limit": 25
+        }
+      ]
+    },
+    {
+      "category": "Croyances islamiques",
+      "questions": [
+        {
+          "question 1": "Combien de piliers de l'Islam y a-t-il ?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 0,
+          "time_limit": 10
+        },
+        {
+          "question 2": "Quel est le premier pilier de l'Islam ?",
+          "options": ["La prière", "Le jeûne", "La profession de foi", "La zakat"],
+          "answer": 2,
+          "time_limit": 15
+        },
+        {
+          "question 3": "Quel est le deuxième pilier de l'Islam ?",
+          "options": ["La prière", "Le jeûne", "La profession de foi", "La zakat"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 4": "Quel est le troisième pilier de l'Islam ?",
+          "options": ["La prière", "Le jeûne", "La profession de foi", "La zakat"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 5": "Quel est le quatrième pilier de l'Islam ?",
+          "options": ["La prière", "Le jeûne", "La profession de foi", "La zakat"],
+          "answer": 3,
+          "time_limit": 20
+        },
+        {
+          "question 6": "Quel est le cinquième pilier de l'Islam ?",
+          "options": ["Le pèlerinage à La Mecque", "Le jeûne du Ramadan", "La prière quotidienne", "La zakat"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 7": "Quel est le nom du mois sacré du jeûne en Islam ?",
+          "options": ["Ramadan", "Chawwal", "Dhu al-Hijjah", "Muharram"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 8": "Quelle est la signification du mot 'Islam' ?",
+          "options": ["Soumission à Dieu", "Paix", "Foi", "Prière"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 9": "Quel est le nom de la profession de foi islamique ?",
+          "options": ["Shahada", "Zakat", "Salah", "Hajj"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 10": "Quel est le nom du pèlerinage obligatoire pour les musulmans ?",
+          "options": ["Hajj", "Umrah", "Zakat", "Salah"],
+          "answer": 0,
+          "time_limit": 20
+        }
+      ]
+    },
+    {
+      "category": "Éthique islamique",
+      "questions": [
+        {
+          "question 1": "Quel est le principe fondamental de l'éthique islamique ?",
+          "options": ["La justice", "La charité", "Le respect des parents", "L'honnêteté"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 2": "Quel est le terme utilisé pour désigner l'interdiction de nuire aux autres ?",
+          "options": ["Haram", "Halal", "Zakat", "Sadaqah"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 3": "Quel est le nom de la charité obligatoire en Islam ?",
+          "options": ["Zakat", "Sadaqah", "Khums", "Fitr"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 4": "Quel est le terme utilisé pour désigner les actions recommandées en Islam ?",
+          "options": ["Halal", "Haram", "Mustahabb", "Makruh"],
+          "answer": 2,
+          "time_limit": 20
+        },
+        {
+          "question 5": "Quel est le terme utilisé pour désigner les actions déconseillées en Islam ?",
+          "options": ["Halal", "Haram", "Mustahabb", "Makruh"],
+          "answer": 3,
+          "time_limit": 20
+        },
+        {
+          "question 6": "Quel est le nom de la prière du vendredi ?",
+          "options": ["Salat al-Jumu'ah", "Salat al-Maghrib", "Salat al-Isha", "Salat al-Fajr"],
+          "answer": 0,
+          "time_limit": 15
+        },
+        {
+          "question 7": "Quel est le terme utilisé pour désigner l'interdiction de consommer de l'alcool en Islam ?",
+          "options": ["Halal", "Haram", "Mustahabb", "Makruh"],
+          "answer": 1,
+          "time_limit": 20
+        },
+        {
+          "question 8": "Quel est le nom de la prière nocturne facultative ?",
+          "options": ["Salat al-Tahajjud", "Salat al-Witr", "Salat al-Tarawih", "Salat al-Duha"],
+          "answer": 0,
+          "time_limit": 25
+        },
+        {
+          "question 9": "Quel est le terme utilisé pour désigner l'interdiction de la usure en Islam ?",
+          "options": ["Riba", "Zakat", "Sadaqah", "Khums"],
+          "answer": 0,
+          "time_limit": 20
+        },
+        {
+          "question 10": "Quel est le nom de la prière du matin ?",
+          "options": ["Salat al-Fajr", "Salat al-Dhuhr", "Salat al-Asr", "Salat al-Maghrib"],
+          "answer": 0,
+          "time_limit": 15
+        }
+      ]
+    }
+  ]
+  
