@@ -10,61 +10,61 @@ questions_data = [
         "category": "Coran",
         "questions": [
             {
-                "question": "Quelle est la première sourate du Coran ?",
+                "question 1": "Quelle est la première sourate du Coran ?",
                 "options": ["Al-Fatiha", "Al-Baqara", "Al-Imran", "An-Nisa"],
                 "answer": 0,
                 "time_limit": 15
             },
             {
-                "question": "Combien de versets compte la sourate Al-Kawthar ?",
+                "question 2": "Combien de versets compte la sourate Al-Kawthar ?",
                 "options": ["1", "3", "5", "10"],
                 "answer": 1,
                 "time_limit": 10
             },
             {
-                "question": "Quel est le thème principal de la sourate Al-Ikhlas ?",
+                "question 3": "Quel est le thème principal de la sourate Al-Ikhlas ?",
                 "options": ["La création", "L'unicité de Dieu", "La prière", "Le jeûne"],
                 "answer": 1,
                 "time_limit": 20
             },
             {
-                "question": "Quelle sourate est connue comme la 'mère du Livre' ?",
+                "question 4": "Quelle sourate est connue comme la 'mère du Livre' ?",
                 "options": ["Al-Fatiha", "Al-Baqara", "An-Nas", "Al-Ikhlas"],
                 "answer": 0,
                 "time_limit": 15
             },
             {
-                "question": "Quel est le dernier verset révélé du Coran ?",
+                "question 5": "Quel est le dernier verset révélé du Coran ?",
                 "options": ["Al-Baqara 2:281", "An-Nas 114:6", "Al-Fatiha 1:7", "Al-Ikhlas 112:4"],
                 "answer": 0,
                 "time_limit": 25
             },
             {
-                "question": "Quelle sourate est souvent récitée pour demander la protection contre le mal ?",
+                "question 6": "Quelle sourate est souvent récitée pour demander la protection contre le mal ?",
                 "options": ["Al-Falaq", "An-Nas", "Al-Baqarah", "Al-Ikhlas"],
                 "answer": 1,
                 "time_limit": 20
             },
             {
-                "question": "Combien de sourates le Coran contient-il ?",
+                "question 7": "Combien de sourates le Coran contient-il ?",
                 "options": ["114", "120", "99", "150"],
                 "answer": 0,
                 "time_limit": 10
             },
             {
-                "question": "Quelle sourate est connue comme la 'sourate du Trône' ?",
+                "question 8": "Quelle sourate est connue comme la 'sourate du Trône' ?",
                 "options": ["Al-Baqara", "Al-Imran", "An-Nisa", "Al-Ma'idah"],
                 "answer": 0,
                 "time_limit": 20
             },
             {
-                "question": "Quel est le sujet principal de la sourate Al-Baqara ?",
+                "question 9": "Quel est le sujet principal de la sourate Al-Baqara ?",
                 "options": ["La prière", "Le jeûne", "La foi et la loi islamique", "L'histoire des prophètes"],
                 "answer": 2,
                 "time_limit": 30
             },
             {
-                "question": "Quelle sourate est dédiée à la famille du Prophète Muhammad ?",
+                "question 10": "Quelle sourate est dédiée à la famille du Prophète Muhammad ?",
                 "options": ["Al-Ahzab", "Al-Imran", "An-Nisa", "Al-Mumtahana"],
                 "answer": 0,
                 "time_limit": 25
@@ -75,61 +75,61 @@ questions_data = [
         "category": "Prophètes",
         "questions": [
             {
-                "question": "Quel prophète a reçu la révélation du Coran ?",
+                "question 1": "Quel prophète a reçu la révélation du Coran ?",
                 "options": ["Moïse", "Jésus", "Muhammad", "Abraham"],
                 "answer": 2,
                 "time_limit": 20
             },
             {
-                "question": "Qui est considéré comme le dernier prophète de l'Islam ?",
+                "question 2": "Qui est considéré comme le dernier prophète de l'Islam ?",
                 "options": ["Adam", "Noé", "Moses", "Muhammad"],
                 "answer": 3,
                 "time_limit": 15
             },
             {
-                "question": "Quel prophète est connu pour avoir construit la Kaaba ?",
+                "question 3": "Quel prophète est connu pour avoir construit la Kaaba ?",
                 "options": ["Abraham", "Noé", "David", "Salomon"],
                 "answer": 0,
                 "time_limit": 25
             },
             {
-                "question": "Qui a été englouti par un grand poisson ?",
+                "question 4": "Qui a été englouti par un grand poisson ?",
                 "options": ["Jonas", "Moïse", "Jésus", "Muhammad"],
                 "answer": 0,
                 "time_limit": 20
             },
             {
-                "question": "Quel prophète a parlé à Dieu sur le mont Sinaï ?",
+                "question 5": "Quel prophète a parlé à Dieu sur le mont Sinaï ?",
                 "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
                 "answer": 1,
                 "time_limit": 30
             },
             {
-                "question": "Qui est le père de tous les prophètes ?",
+                "question 6": "Qui est le père de tous les prophètes ?",
                 "options": ["Adam", "Abraham", "Noé", "David"],
                 "answer": 0,
                 "time_limit": 15
             },
             {
-                "question": "Quel prophète a été sauvé du feu par Dieu ?",
+                "question 7": "Quel prophète a été sauvé du feu par Dieu ?",
                 "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
                 "answer": 0,
                 "time_limit": 20
             },
             {
-                "question": "Qui a reçu les dix commandements ?",
+                "question 8": "Qui a reçu les dix commandements ?",
                 "options": ["Abraham", "Moïse", "Jésus", "Muhammad"],
                 "answer": 1,
                 "time_limit": 25
             },
             {
-                "question": "Quel prophète a été connu pour sa grande patience ?",
+                "question 9": "Quel prophète a été connu pour sa grande patience ?",
                 "options": ["Job", "Noé", "Moïse", "David"],
                 "answer": 0,
                 "time_limit": 30
             },
             {
-                "question": "Qui est le prophète associé à la naissance miraculeuse ?",
+                "question 10": "Qui est le prophète associé à la naissance miraculeuse ?",
                 "options": ["Jésus", "Moïse", "Abraham", "Muhammad"],
                 "answer": 0,
                 "time_limit": 20
